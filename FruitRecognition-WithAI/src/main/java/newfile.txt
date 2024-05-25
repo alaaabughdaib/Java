@@ -1,0 +1,101 @@
+
+//
+//import java.awt.List;
+//import java.util.ArrayList;
+//
+///*
+// * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+// * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+// */
+//
+///**
+// *
+// * @author Yousef
+// */
+//public class TrainingData {
+//
+//    private int fruit_type;
+//    private int  fruit_color;
+//    private int sweetness;
+//    
+//    private int learningRate;
+//    private int activationFunction;
+//    private int neurons;
+//    private int maxEpochs; 
+//    private double goal;
+//    
+//    public TrainingData() {
+//    }
+//        
+//   public TrainingData(int fruit_type, int  fruit_color, int sweetness, int learningRate, int activationFunction, int neurons, int maxEpochs, double goal) {
+//        this.fruit_type = fruit_type;
+//        this.fruit_color = fruit_color;
+//        this.sweetness = sweetness;
+//        this.learningRate = learningRate;
+//        this.activationFunction = activationFunction;
+//        this.neurons = neurons;
+//        
+//        this.maxEpochs = maxEpochs;
+//        this.goal = goal;
+//    }
+//
+//    Main m= new Main();
+//    
+//    public int getFruit_type() {
+//        
+//       fruit_type=m.fruit_type;
+//        return fruit_type;
+//    }
+//
+//    public int  getFruit_color() {
+//        fruit_color=m.fruit_color;
+//        return fruit_color;
+//    }
+//
+//    public int getSweetness() {
+//        sweetness=m.sweetness;
+//        return sweetness;
+//    }
+//
+//    public int getLearningRate() {
+//        learningRate=m.learniing_rate;
+//        return learningRate;
+//    }
+//
+//    public int getActivationFunction() {
+//        activationFunction=m.act_funn;
+//        return activationFunction;
+//    }
+//
+//    public int getNeurons() {
+//        neurons=m.neurons_num;
+//        return neurons;
+//    }
+//
+//    public int getMaxEpochs() {
+//        maxEpochs=m.iterations;
+//        return maxEpochs;
+//    }
+//
+//    public double getGoal() {
+//        goal=m.goal;
+//        return goal;
+//    }
+//
+//     
+//   @Override
+//public String toString() {
+//    return "TrainingData{" +
+//            "fruit_type=" + fruit_type +
+//            ", fruit_color=" + fruit_color +
+//            ", sweetness=" + sweetness +
+//            ", learningRate=" + learningRate +
+//            ", activationFunction=" + activationFunction +
+//            ", neurons=" + neurons +
+//            ", maxEpochs=" + maxEpochs +
+//            ", goal=" + goal +
+//            '}';
+//}
+//
+//}
+
